@@ -1,6 +1,6 @@
 # TopicModeler
 
-![alt text] (Architecture.png)
+![architecture](https://user-images.githubusercontent.com/22082706/48297301-c26dd400-e459-11e8-8787-d262e696b2d2.PNG)
 
 Requirements:
 
