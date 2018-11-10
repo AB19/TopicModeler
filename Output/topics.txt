@@ -1,0 +1,20 @@
+Topic-0:
+0.021*"player" + 0.018*"money" + 0.012*"fun" + 0.012*"real" + 0.011*"try" + 0.011*"movies" + 0.010*"videos" + 0.009*"win" + 0.008*"hindi" + 0.007*"gaming"
+Topic-1:
+0.058*"gratis" + 0.026*"live" + 0.024*"movie" + 0.024*"song" + 0.022*"music" + 0.016*"android" + 0.012*"version" + 0.012*"pdf" + 0.012*"latest" + 0.011*"watch"
+Topic-2:
+0.184*"descargar" + 0.047*"descarga" + 0.024*"windows" + 0.021*"musica" + 0.020*"canciones" + 0.019*"escuchar" + 0.018*"juegos" + 0.016*"como" + 0.016*"una" + 0.015*"versin"
+Topic-3:
+0.255*"download" + 0.058*"songs" + 0.042*"full" + 0.023*"windows" + 0.021*"espaol" + 0.016*"software" + 0.015*"search" + 0.014*"listen" + 0.014*"downloads" + 0.012*"lagu"
+Topic-4:
+0.029*"account" + 0.022*"players" + 0.022*"deposit" + 0.015*"terms" + 0.013*"may" + 0.010*"conditions" + 0.010*"right" + 0.009*"wagering" + 0.008*"winnings" + 0.008*"requirements"
+Topic-5:
+0.138*"para" + 0.079*"que" + 0.059*"los" + 0.044*"con" + 0.042*"del" + 0.034*"las" + 0.032*"por" + 0.032*"les" + 0.020*"gratuita" + 0.017*"des"
+Topic-6:
+0.085*"activity" + 0.054*"computer" + 0.051*"ltd" + 0.049*"per" + 0.038*"due" + 0.034*"system" + 0.032*"registration" + 0.030*"windows" + 0.024*"theft" + 0.024*"activities"
+Topic-7:
+0.097*"slots" + 0.042*"loading" + 0.041*"slot" + 0.039*"deposit" + 0.030*"spins" + 0.021*"machine" + 0.016*"blackjack" + 0.013*"poker" + 0.013*"wild" + 0.010*"popular"
+Topic-8:
+0.035*"responsible" + 0.033*"files" + 0.030*"back" + 0.030*"information" + 0.026*"action" + 0.024*"support" + 0.024*"computer" + 0.023*"please" + 0.023*"help" + 0.022*"contact"
+Topic-9:
+0.055*"sites" + 0.041*"click" + 0.037*"site" + 0.036*"web" + 0.036*"app" + 0.035*"password" + 0.026*"browser" + 0.025*"security" + 0.024*"internet" + 0.021*"statistical"
