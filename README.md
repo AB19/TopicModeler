@@ -1,6 +1,6 @@
 # TopicModeler
 
-![alt text] (http://url/to/img.png)
+![alt text] (Architecture.png)
 
 Requirements:
 
